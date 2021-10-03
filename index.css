@@ -1,0 +1,36 @@
+html{
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    display: flex;
+}
+
+body{
+  font-size: 28px;
+  margin-top: 50px;
+    height: 90%;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+  
+    width: 90%;
+    height: 50px;
+}
+
+div {
+    width: 50px;
+}
+
+#frog{
+    background: url(frog2.jpg);
+   background-size: 56px;
+   height: 100%;
+   width: 100%;
+}
+
+.konoha{
+ background: url(konoha.png);
+ background-size: 47px;
+}
